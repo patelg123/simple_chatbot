@@ -1,1 +1,2 @@
-# simple_chatbot
+# Simple chatbot using openai ChatCompletion 
+# 
