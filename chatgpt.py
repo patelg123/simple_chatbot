@@ -25,7 +25,7 @@ def chat_gpt(user_input, last_answer):
     
     return response.choices[0].message.content   
     
-#https://levelup.gitconnected.com/a-beginners-guide-to-using-the-chatgpt-api-in-python-29c57775113b
+
 
 # Loop to ask for user input and receive ChatGPT's response
 while True:
